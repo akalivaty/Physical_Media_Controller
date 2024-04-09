@@ -1,0 +1,8 @@
+.pio
+Physical_Media_Controller.code-workspace
+PyBTKeyboard/__pycache__
+PyBTKeyboard/.venv
+Arduino/.vscode/.browse.c_cpp.db*
+Arduino/.vscode/c_cpp_properties.json
+Arduino/.vscode/launch.json
+Arduino/.vscode/ipch
